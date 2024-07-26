@@ -2,7 +2,7 @@ name: Update Filter Lists
 
 on:
   schedule:
-    - cron: "30 3 */2 * *"
+    - cron: "30 20 */2 * *"
   push:
     branches:
       - main
